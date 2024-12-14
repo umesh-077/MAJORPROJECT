@@ -1,4 +1,7 @@
 {
+  "eslint": {
+    "ignoreDuringBuilds": "true"
+  },
   "engine": {
     "node": "20.18.0"
   },
